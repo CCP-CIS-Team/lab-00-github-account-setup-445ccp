@@ -130,9 +130,12 @@ Drag these image files into your repo folder, then write the filename next to ea
 
 | Screenshot | Filename |
 |---|---|
-| Your GitHub profile page (logged in) | |
-| git --version output in terminal | |
-| git config --list showing your name and email | |
+| Your GitHub profile page (logged in) | <img width="993" height="497" alt="image" src="https://github.com/user-attachments/assets/d3fab174-66f3-4eba-b74c-248d5abae156" />
+|
+| git --version output in terminal | <img width="375" height="128" alt="image" src="https://github.com/user-attachments/assets/6a26c77c-7615-4e59-87db-fbcd7cea8d79" />
+|
+| git config --list showing your name and email | <img width="473" height="362" alt="image" src="https://github.com/user-attachments/assets/13f7e53b-dc6d-486b-ac4b-efb553fecb64" />
+|
 | Your repo on github.com after pushing | |
 
 ---
