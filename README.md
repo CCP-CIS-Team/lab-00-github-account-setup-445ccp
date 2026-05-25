@@ -88,11 +88,11 @@ Edit this README.md file and complete the table:
 
 | Field | Your Answer |
 |---|---|
-| Full Name | |
-| GitHub Username | |
-| CCP Email | |
-| Operating System (Windows/Mac/Linux) | |
-| Date Completed | |
+| Full Name | Marcus Richie|
+| GitHub Username |445ccp |
+| CCP Email |mrichie4@student.ccp.edu |
+| Operating System (Windows/Mac/Linux) | Windows |
+| Date Completed |5/24/26 |
 
 ---
 
@@ -100,15 +100,15 @@ Edit this README.md file and complete the table:
 
 Q1: In your own words, what is GitHub and why do developers use it?
 
-    [Your answer here — 2 to 3 sentences]
+    GitHub is a platform that developers use to store and manage code while collaborating through version control. It allows multiple people to work on the same project at the same time without losing or overwriting each other’s changes. Developers use it because it keeps a clear history of updates, makes teamwork easier, and helps organize software projects in a structured way.
 
 Q2: What is the difference between Git and GitHub?
 
-    [Your answer here — 2 to 3 sentences]
+    Git is a version control tool that runs locally and tracks changes in your code over time, while Git handles the actual saving, branching, and merging of projects. GitHub is a cloud platform that uses Git but adds collaboration features like hosting repositories, pull requests, and issue tracking so teams can work together more easily.
 
 Q3: Why would a future employer look at your GitHub profile?
 
-    [Your answer here — 1 to 2 sentences]
+    A future employer might look at my GitHub profile to get a better sense of my coding skills and how I work on real projects. It gives them a way to see how I think through problems, use tools like Git, and collaborate with others. It also shows my consistency and any personal or open-source work that goes beyond what’s on my resume.
 
 ---
 
