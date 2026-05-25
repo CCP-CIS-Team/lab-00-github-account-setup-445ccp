@@ -136,7 +136,8 @@ Drag these image files into your repo folder, then write the filename next to ea
 |
 | git config --list showing your name and email | <img width="473" height="362" alt="image" src="https://github.com/user-attachments/assets/13f7e53b-dc6d-486b-ac4b-efb553fecb64" />
 |
-| Your repo on github.com after pushing | |
+| Your repo on github.com after pushing |<img width="1195" height="659" alt="image" src="https://github.com/user-attachments/assets/b1efdc1e-340d-40a4-8710-7f120c48534b" />
+ |
 
 ---
 
